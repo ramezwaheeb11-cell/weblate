@@ -1,7 +1,0 @@
-== Ahoj světe!
-
-Orangutan has five bananas.
-
-Try Weblate at https://demo.weblate.org/[weblate.org]!
-
-_Thank you for using Weblate._

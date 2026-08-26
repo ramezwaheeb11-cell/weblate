@@ -1,9 +1,0 @@
-cs:
-  weblate:
-    hello: ""
-    orangutan:
-      one: "Orangutan má %d banán.\n"
-      few: "Orangutan má %d banány.\n"
-      other: "Orangutan má %d banánů.\n"
-    try: ""
-    thanks: ""
